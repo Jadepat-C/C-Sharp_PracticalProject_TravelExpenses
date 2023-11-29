@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "apis1": {
+      "type": "apis"
+    },
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "tcp:jadepat-personal.database.windows.net,1433",
+      "dynamicId": null
+    }
+  }
+}
