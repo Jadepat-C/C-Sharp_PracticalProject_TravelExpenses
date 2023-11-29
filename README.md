@@ -1,1 +1,5 @@
-# PracticalProject3
+## PracticalProject
+#Dependency
+- PracticalLib
+- npm
+- Angular CLI
