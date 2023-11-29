@@ -1,5 +1,6 @@
 ## PracticalProject
-#Dependency
+### Dependency
 - PracticalLib
+- PracticalProjectClient
 - npm
 - Angular CLI
